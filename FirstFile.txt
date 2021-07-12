@@ -1,0 +1,3 @@
+Hello World!!!
+
+This is a JAVA program to copy the contents of one file into another.

@@ -1,0 +1,2 @@
+This is a JAVA file.
+//To print the lines starting with '//'.
